@@ -1,8 +1,5 @@
 # MyPaintPortable
 
-## Todo
-- Compare against released package to ensure all data is up to date
-
 
 ## Build Process
 1. After installing [MyPaint](https://github.com/mypaint/mypaint/releases), copy the files into the `App/MyPaint/` folder
